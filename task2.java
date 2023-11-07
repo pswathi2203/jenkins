@@ -17,4 +17,3 @@ class task2 {
     System.out.println("GCD of " + n1 +" and " + n2 + " is " + gcd);
   }
 }
-Output
